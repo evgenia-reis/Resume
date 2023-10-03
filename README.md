@@ -4,30 +4,29 @@
 
 ## Experience
 
-6 months of experience as a Manual sofware testing engineer in an agile development environment - Android/iOS app in healthcare (health tracker app).
+6 months of experience as a Manual sofware testing in an agile development environment - Android/iOS app in healthcare (health tracker app).
 
 ---
 
 ## Responsibilities:
 
-*    Analysis and clarification of requirements with the customer
-*    Planning the testing process;
-*    Writing test scripts;
+*    Analysis and clarification of requirements with the team
+*    Planning the testing process: test plan, test cases
 *    Tracking the life cycle of bugs;
 *    Re-test of subordinate defects;
-*    Testing analysis;
-*    Optimization of the testing process;
-*    Analysis of team work processes;
-*    Maintaining test documentation.
 
 ---
 
 ## Hard Skills
 
 *    Ability to write software tests
-*    Fluent English
-*    Working with Git, working with multiple repositories at the same time
-*    Testing web applications, API, understanding client-server interaction working with DevTools, Postman
+*    Fluent English (writing and comminication)
+*    Git/Git Hub
+*    Jira
+*    Postman
+*    Test Flight, X-Code
+*    Just started learning automation testing in Java
+
 ---
 
 ### Contacts:
